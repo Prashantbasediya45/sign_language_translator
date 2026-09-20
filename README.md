@@ -555,8 +555,8 @@ Contributions are welcome! Here's how you can help:
 ## 📞 Contact & Support
 
 ### Connect
-- 🐙 **GitHub:** [@yourusername](https://github.com/12072004/sign-language-translator)
-- 💼 **LinkedIn:** [Umang Sharma](www.linkedin.com/in/umang-sharma-507a99254)
+- 🐙 **GitHub:** [@yourusername](https://github.com/Prashantbasediya45/sign_language_translator)
+- 💼 **LinkedIn:** [Prashant Basediya](https://www.linkedin.com/in/prashant-basediya-b5603824a?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
@@ -574,5 +574,6 @@ If you find this project helpful, please consider giving it a ⭐!
 [⬆ Back to Top](#-real-time-sign-language-translator)
 
 </div>
-#   s i g n _ l a n g u a g e _ t r a n s l a t o r  
+#   s i g n _ l a n g u a g e _ t r a n s l a t o r 
+ 
  
